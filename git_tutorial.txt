@@ -1,0 +1,12 @@
+1 baixar o git
+2 demarcar git gui here
+3 marcar override the default branch name for new repositories usar o main
+4 marcar none  nas credential. deixar o git decidir
+
+comandos 
+git init
+git config --list
+git config --global user.name "jean souza"
+git condig --global user.email "jeancarlosdesouzawork@gmail.com"
+
+ssh-keygen -t ed25519 -C "your_email@example.com"
