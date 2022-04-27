@@ -10,3 +10,10 @@ git config --global user.name "jean souza"
 git condig --global user.email "jeancarlosdesouzawork@gmail.com"
 
 ssh-keygen -t ed25519 -C "your_email@example.com"
+
+git status
+git add .
+git commit -m "nome do commit"
+git remote add origin git@github.com:jeancdsouza/git-tutorial.git
+git push -u origin main - enviar para o repositorio
+git pull - trazer para maquina
